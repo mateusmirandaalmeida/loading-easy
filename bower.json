@@ -1,0 +1,18 @@
+{
+  "name": "loading-easy",
+  "version": "1.0.0",
+  "description": "A feedback library for users with a beautiful experience.",
+  "main": "main.js",
+  "authors": [
+    "Mateus Miranda <info.mateusmiranda@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mateusmirandaalmeida/loading-easy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
