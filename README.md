@@ -2,6 +2,10 @@
 
 A feedback library for users with a beautiful experience.
 
+#Demo
+``
+  [a link](https://mateusmirandaalmeida.github.io/loading-easy/)
+``
 ## Installation
 ```html
 
