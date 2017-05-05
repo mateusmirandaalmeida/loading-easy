@@ -22,6 +22,11 @@ or
 LoadingEasy.init('Your text here');
 ```
 
+## Finish Loading
+```javascript
+LoadingEasy.finish();
+```
+
 ## Customization
 ```javascript
 var config = {
